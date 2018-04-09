@@ -1,2 +1,0 @@
-# votacao
-Analise de votacoes

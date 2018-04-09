@@ -1,0 +1,4 @@
+*       text=auto
+*.txt		text
+*.sql	text eol=crlf
+*.bat	text eol=crlf
